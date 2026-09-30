@@ -1,0 +1,6 @@
+{
+  "name": "Rook Sniper: Urban Target",
+  "description": "Tactical neon-noir sniper game with realistic scope sway, wind physics, target briefs, night vision, and procedurally generated surveillance contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
